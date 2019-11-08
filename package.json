@@ -1,0 +1,31 @@
+{
+  "name": "ecommerce-delivery",
+  "version": "1.0.0",
+  "description": "Blockchain solution for ecommerce deliveries with cashback",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "drizzle": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dekuyper/ecommerce-delivery.git"
+  },
+  "keywords": [
+    "ethereum",
+    "blockchain",
+    "ecommerce"
+  ],
+  "author": "Nicolae Oprisan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dekuyper/ecommerce-delivery/issues"
+  },
+  "homepage": "https://github.com/dekuyper/ecommerce-delivery#readme"
+}
